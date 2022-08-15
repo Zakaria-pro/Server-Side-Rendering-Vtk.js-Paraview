@@ -2,7 +2,7 @@
 
 ## Running the Client code (Vtk.js)
 
-1. cd to `vtk-project/Client`
+1. cd to `./Client`
 
 2. install Node dependencies: `npm install`
 
@@ -22,6 +22,6 @@
 
 ### Run the server
 
-5. Cd to `vtk-project/Server`
+5. Cd to `./Server`
 
 6. Run the command `pvpython pv_server.py --port 1234`
